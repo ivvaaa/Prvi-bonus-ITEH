@@ -1,2 +1,3 @@
 # Prvi-bonus-ITEH
-menjanje kostura sa vezbi 2
+Menjanje kostura sa vezbi 2
+U index.php je promenjeno korisnicko ime u username i lozinka u password.
