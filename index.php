@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>FON: Zakazivanje kolokvijuma</title>
+    <title>FON: ZAKAZIVANJE KOLOKVIJUMA</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
@@ -14,11 +14,11 @@
             <h2 class="text-center">Prijava</h2>
             <form method="POST" action="#">
                 <div class="form-group">
-                    <label for="username">Korisničko ime</label>
+                    <label for="username">KORISNICKO IME ime</label>
                     <input type="text" name="username" class="form-control" required>
                 </div>
                 <div class="form-group">
-                    <label for="password">Lozinka</label>
+                    <label for="password">LOZINKA</label>
                     <input type="password" name="password" class="form-control" required>
                 </div>
                 <button type="submit" class="btn btn-primary btn-block mt-4" name="submit">Prijavi se</button>
